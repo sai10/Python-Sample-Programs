@@ -1,0 +1,7 @@
+print ("Example of Addition - ",(2+2))
+print ("Example of Subtraction - ",(2-2))
+print ("Example of Multiplication - ",(2*2))
+print ("Example of Division - ",(3/2))
+print ("Example of Floor Division - ",(2//2))
+print ("Example of Modulo - ",(2%2))
+print ("Example of Exponentation - ",(2**2))
