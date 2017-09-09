@@ -1,7 +1,7 @@
 import codecs
 
 fp1 = codecs.open('HindiRead.txt','r',encoding='utf-16')
-file1 = fp1.read()
+file1 = fp1.readlines()
 
 fp2 = codecs.open('HindiWrite.txt','w',encoding='utf-16')
 
