@@ -2,11 +2,46 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38df94bc-4db2-48f7-b796-eedb854e1e27" name="Default" comment="10 sept 17">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OpenCV/drawing.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OpenCV/image_read.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OpenCV/image_red1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OpenCV/savingDiffFormat.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Translation-Goslate/basic.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OpenCV/5-rectangle.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OpenCV/6-line.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/Sample-Python.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Translation-Goslate/Translated.txt" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/OpenCV/drawing.py" afterPath="$PROJECT_DIR$/OpenCV/4-drawing.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/OpenCV/image_read.py" afterPath="$PROJECT_DIR$/OpenCV/1-image_read.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/OpenCV/image_red1.py" afterPath="$PROJECT_DIR$/OpenCV/2-image_read1.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/OpenCV/savingDiffFormat.py" afterPath="$PROJECT_DIR$/OpenCV/3-savingDiffFormat.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Python(Image Processing) skimage - Scripts/ImageDetails.py" afterPath="$PROJECT_DIR$/Python(Image Processing) skimage - Scripts/3-ImageDetails.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Python(Image Processing) skimage - Scripts/ImageRead.py" afterPath="$PROJECT_DIR$/Python(Image Processing) skimage - Scripts/1-ImageRead.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Python(Image Processing) skimage - Scripts/ImageViewer.py" afterPath="$PROJECT_DIR$/Python(Image Processing) skimage - Scripts/2-ImageViewer.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TensorFlow-Examples/NeuralNetBasic.py" afterPath="$PROJECT_DIR$/TensorFlow/NeuralNetBasic.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TensorFlow-Examples/deepLearningOwnData.py" afterPath="$PROJECT_DIR$/TensorFlow/deepLearningOwnData.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TensorFlow-Examples/mul.py" afterPath="$PROJECT_DIR$/TensorFlow/mul.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TensorFlow-Examples/mul1.py" afterPath="$PROJECT_DIR$/TensorFlow/mul1.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TensorFlow-Examples/mulmat.py" afterPath="$PROJECT_DIR$/TensorFlow/mulmat.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Translation-Goslate/basic.py" afterPath="$PROJECT_DIR$/Translation-Goslate/1-basic.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Translation-Goslate/basic1.py" afterPath="$PROJECT_DIR$/Translation-Goslate/2-basic1.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Translation-Goslate/batchTranslation.py" afterPath="$PROJECT_DIR$/Translation-Goslate/6-batchTranslation.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Translation-Goslate/dictionary.py" afterPath="$PROJECT_DIR$/Translation-Goslate/7-dictionary.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Translation-Goslate/languageDetection.py" afterPath="$PROJECT_DIR$/Translation-Goslate/5-languageDetection.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Translation-Goslate/proxySupport.py" afterPath="$PROJECT_DIR$/Translation-Goslate/4-proxySupport.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Translation-Goslate/romanlization.py" afterPath="$PROJECT_DIR$/Translation-Goslate/3-romanlization.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Visualisation-Turtle/ChangingLineColor.py" afterPath="$PROJECT_DIR$/Visualisation-Turtle/8-ChangingLineColor.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Visualisation-Turtle/SpirallingStar.py" afterPath="$PROJECT_DIR$/Visualisation-Turtle/6-SpirallingStar.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Visualisation-Turtle/SpiralllingStar1.py" afterPath="$PROJECT_DIR$/Visualisation-Turtle/7-SpiralllingStar1.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Visualisation-Turtle/line.py" afterPath="$PROJECT_DIR$/Visualisation-Turtle/1-line.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Visualisation-Turtle/nestedLoop.py" afterPath="$PROJECT_DIR$/Visualisation-Turtle/10-nestedLoop.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Visualisation-Turtle/speed.py" afterPath="$PROJECT_DIR$/Visualisation-Turtle/11-speed.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Visualisation-Turtle/square.py" afterPath="$PROJECT_DIR$/Visualisation-Turtle/2-square.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Visualisation-Turtle/square1.py" afterPath="$PROJECT_DIR$/Visualisation-Turtle/3-square1.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Visualisation-Turtle/square2.py" afterPath="$PROJECT_DIR$/Visualisation-Turtle/4-square2.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Visualisation-Turtle/star.py" afterPath="$PROJECT_DIR$/Visualisation-Turtle/5-star.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Visualisation-Turtle/variable.py" afterPath="$PROJECT_DIR$/Visualisation-Turtle/9-variable.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Translation-Goslate/ToBTranslated.txt" afterPath="$PROJECT_DIR$/Translation-Goslate/ToBTranslated.txt" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,11 +52,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="image_read.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/OpenCV/image_read.py">
+      <file leaf-file-name="1-image_read.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OpenCV/1-image_read.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="126">
-              <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="28" />
+              <caret line="7" column="28" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="28" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -29,8 +64,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="image_red1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/OpenCV/image_red1.py">
+      <file leaf-file-name="2-image_read1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OpenCV/2-image_read1.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="108">
               <caret line="6" column="26" lean-forward="false" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
@@ -41,23 +76,47 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="savingDiffFormat.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/OpenCV/savingDiffFormat.py">
+      <file leaf-file-name="3-savingDiffFormat.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OpenCV/3-savingDiffFormat.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="198">
-              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="drawing.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/OpenCV/drawing.py">
+      <file leaf-file-name="4-drawing.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OpenCV/4-drawing.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" column="63" lean-forward="false" selection-start-line="8" selection-start-column="63" selection-end-line="8" selection-end-column="63" />
+            <state relative-caret-position="252">
+              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding>
                 <element signature="e#177#195#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="5-rectangle.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OpenCV/5-rectangle.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="6-line.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/OpenCV/6-line.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="11" column="23" lean-forward="false" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -87,14 +146,16 @@
         <option value="$PROJECT_DIR$/OpenCV/image_red1.py" />
         <option value="$PROJECT_DIR$/OpenCV/savingDiffFormat.py" />
         <option value="$PROJECT_DIR$/OpenCV/drawing.py" />
+        <option value="$PROJECT_DIR$/OpenCV/5-rectangle.py" />
+        <option value="$PROJECT_DIR$/OpenCV/6-line.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-1" />
-    <option name="y" value="-4" />
-    <option name="width" value="1366" />
-    <option name="height" value="710" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="639" />
+    <option name="y" value="24" />
+    <option name="width" value="725" />
+    <option name="height" value="674" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -149,20 +210,37 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.drawing">
-    <configuration name="basic" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.6-line">
+    <configuration name="5-rectangle" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Translation-Goslate" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OpenCV" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Sample-Python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Translation-Goslate/basic.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OpenCV/5-rectangle.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="6-line" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OpenCV" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Sample-Python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OpenCV/6-line.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -179,24 +257,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Sample-Python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OpenCV/drawing.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="image_read" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OpenCV" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Sample-Python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OpenCV/image_read.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OpenCV/4-drawing.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -213,7 +274,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Sample-Python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OpenCV/image_red1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OpenCV/2-image_read1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -230,25 +291,25 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Sample-Python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OpenCV/savingDiffFormat.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OpenCV/3-savingDiffFormat.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.basic" />
-      <item index="1" class="java.lang.String" itemvalue="Python.image_read" />
-      <item index="2" class="java.lang.String" itemvalue="Python.image_red1" />
-      <item index="3" class="java.lang.String" itemvalue="Python.savingDiffFormat" />
-      <item index="4" class="java.lang.String" itemvalue="Python.drawing" />
+      <item index="0" class="java.lang.String" itemvalue="Python.image_red1" />
+      <item index="1" class="java.lang.String" itemvalue="Python.savingDiffFormat" />
+      <item index="2" class="java.lang.String" itemvalue="Python.drawing" />
+      <item index="3" class="java.lang.String" itemvalue="Python.5-rectangle" />
+      <item index="4" class="java.lang.String" itemvalue="Python.6-line" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.drawing" />
-        <item index="1" class="java.lang.String" itemvalue="Python.savingDiffFormat" />
-        <item index="2" class="java.lang.String" itemvalue="Python.image_red1" />
-        <item index="3" class="java.lang.String" itemvalue="Python.image_read" />
-        <item index="4" class="java.lang.String" itemvalue="Python.basic" />
+        <item index="0" class="java.lang.String" itemvalue="Python.6-line" />
+        <item index="1" class="java.lang.String" itemvalue="Python.5-rectangle" />
+        <item index="2" class="java.lang.String" itemvalue="Python.drawing" />
+        <item index="3" class="java.lang.String" itemvalue="Python.savingDiffFormat" />
+        <item index="4" class="java.lang.String" itemvalue="Python.image_red1" />
       </list>
     </recent_temporary>
   </component>
@@ -256,13 +317,13 @@
     <option name="remove_strategy" value="false" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="-4" width="1368" height="773" extended-state="7" />
+    <frame x="639" y="24" width="725" height="674" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27727273" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37518463" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32886904" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32886904" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28422618" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33333334" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -314,7 +375,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Translation-Goslate/basic.py">
+    <entry file="file://$PROJECT_DIR$/Translation-Goslate/1-basic.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -322,7 +383,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Translation-Goslate/basic.py">
+    <entry file="file://$PROJECT_DIR$/Translation-Goslate/1-basic.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -330,7 +391,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Translation-Goslate/basic.py">
+    <entry file="file://$PROJECT_DIR$/Translation-Goslate/1-basic.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -338,7 +399,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Translation-Goslate/basic.py">
+    <entry file="file://$PROJECT_DIR$/Translation-Goslate/1-basic.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -346,175 +407,175 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Visualisation-Turtle/line.py">
+    <entry file="file://$PROJECT_DIR$/Visualisation-Turtle/1-line.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Visualisation-Turtle/square1.py">
+    <entry file="file://$PROJECT_DIR$/Visualisation-Turtle/3-square1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Visualisation-Turtle/star.py">
+    <entry file="file://$PROJECT_DIR$/Visualisation-Turtle/5-star.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Visualisation-Turtle/SpirallingStar.py">
+    <entry file="file://$PROJECT_DIR$/Visualisation-Turtle/6-SpirallingStar.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="9" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Visualisation-Turtle/SpiralllingStar1.py">
+    <entry file="file://$PROJECT_DIR$/Visualisation-Turtle/7-SpiralllingStar1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="5" column="23" lean-forward="false" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Visualisation-Turtle/ChangingLineColor.py">
+    <entry file="file://$PROJECT_DIR$/Visualisation-Turtle/8-ChangingLineColor.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="4" column="58" lean-forward="false" selection-start-line="4" selection-start-column="58" selection-end-line="4" selection-end-column="58" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Visualisation-Turtle/variable.py">
+    <entry file="file://$PROJECT_DIR$/Visualisation-Turtle/9-variable.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Visualisation-Turtle/nestedLoop.py">
+    <entry file="file://$PROJECT_DIR$/Visualisation-Turtle/10-nestedLoop.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="8" column="52" lean-forward="false" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Visualisation-Turtle/speed.py">
+    <entry file="file://$PROJECT_DIR$/Visualisation-Turtle/11-speed.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Visualisation-Turtle/square.py">
+    <entry file="file://$PROJECT_DIR$/Visualisation-Turtle/2-square.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Visualisation-Turtle/line.py">
+    <entry file="file://$PROJECT_DIR$/Visualisation-Turtle/1-line.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Visualisation-Turtle/square2.py">
+    <entry file="file://$PROJECT_DIR$/Visualisation-Turtle/4-square2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="6" column="47" lean-forward="false" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Visualisation-Turtle/square.py">
+    <entry file="file://$PROJECT_DIR$/Visualisation-Turtle/2-square.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Visualisation-Turtle/square.py">
+    <entry file="file://$PROJECT_DIR$/Visualisation-Turtle/2-square.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Visualisation-Turtle/speed.py">
+    <entry file="file://$PROJECT_DIR$/Visualisation-Turtle/11-speed.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Visualisation-Turtle/nestedLoop.py">
+    <entry file="file://$PROJECT_DIR$/Visualisation-Turtle/10-nestedLoop.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="8" column="52" lean-forward="false" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Visualisation-Turtle/variable.py">
+    <entry file="file://$PROJECT_DIR$/Visualisation-Turtle/9-variable.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Visualisation-Turtle/ChangingLineColor.py">
+    <entry file="file://$PROJECT_DIR$/Visualisation-Turtle/8-ChangingLineColor.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="4" column="58" lean-forward="false" selection-start-line="4" selection-start-column="58" selection-end-line="4" selection-end-column="58" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Visualisation-Turtle/SpiralllingStar1.py">
+    <entry file="file://$PROJECT_DIR$/Visualisation-Turtle/7-SpiralllingStar1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="5" column="23" lean-forward="false" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Visualisation-Turtle/SpirallingStar.py">
+    <entry file="file://$PROJECT_DIR$/Visualisation-Turtle/6-SpirallingStar.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="9" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Visualisation-Turtle/star.py">
+    <entry file="file://$PROJECT_DIR$/Visualisation-Turtle/5-star.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Visualisation-Turtle/square2.py">
+    <entry file="file://$PROJECT_DIR$/Visualisation-Turtle/4-square2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="6" column="47" lean-forward="false" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Visualisation-Turtle/square1.py">
+    <entry file="file://$PROJECT_DIR$/Visualisation-Turtle/3-square1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Visualisation-Turtle/line.py">
+    <entry file="file://$PROJECT_DIR$/Visualisation-Turtle/1-line.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Translation-Goslate/basic.py">
+    <entry file="file://$PROJECT_DIR$/Translation-Goslate/1-basic.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
           <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
@@ -522,7 +583,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OpenCV/image_red1.py">
+    <entry file="file://$PROJECT_DIR$/OpenCV/2-image_read1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="6" column="26" lean-forward="false" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
@@ -532,30 +593,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OpenCV/image_read.py">
+    <entry file="file://$PROJECT_DIR$/OpenCV/1-image_read.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
-          <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="28" />
+          <caret line="7" column="28" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="28" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OpenCV/savingDiffFormat.py">
+    <entry file="file://$PROJECT_DIR$/OpenCV/3-savingDiffFormat.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OpenCV/drawing.py">
+    <entry file="file://$PROJECT_DIR$/OpenCV/4-drawing.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="63" lean-forward="false" selection-start-line="8" selection-start-column="63" selection-end-line="8" selection-end-column="63" />
+        <state relative-caret-position="252">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding>
             <element signature="e#177#195#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpenCV/5-rectangle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpenCV/6-line.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="23" lean-forward="false" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
