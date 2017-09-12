@@ -5,8 +5,10 @@ gs = goslate.Goslate()
 
 fW = open('Translated.txt','w')
 with codecs.open('ToBTranslated.txt','r') as f:
-	text = f.read()
-	text = text.strip()
-	print gs.translate(text,'eng')+'\n'
-	fW.write(gs.translate(text,'eng')+'\n')
+	fr = f.readlines()
+	for i in fr:
+		i = i.strip()
+		text = gs.translate(i,'eng')
+		print text+'\n'
+		fW.write(text+'\n')
 
