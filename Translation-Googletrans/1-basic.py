@@ -3,7 +3,7 @@
 import googletrans
 
 gs = googletrans.Translator()
-st = 'संतान'
+st = 'मानचित्रण प्रदर्शित करें'
 
 lst = gs.translate(st,'en')
 

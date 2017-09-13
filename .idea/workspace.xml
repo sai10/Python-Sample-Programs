@@ -2,46 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38df94bc-4db2-48f7-b796-eedb854e1e27" name="Default" comment="10 sept 17">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OpenCV/5-rectangle.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OpenCV/6-line.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/Sample-Python.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Translation-Goslate/Translated.txt" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/OpenCV/drawing.py" afterPath="$PROJECT_DIR$/OpenCV/4-drawing.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/OpenCV/image_read.py" afterPath="$PROJECT_DIR$/OpenCV/1-image_read.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/OpenCV/image_red1.py" afterPath="$PROJECT_DIR$/OpenCV/2-image_read1.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/OpenCV/savingDiffFormat.py" afterPath="$PROJECT_DIR$/OpenCV/3-savingDiffFormat.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Python(Image Processing) skimage - Scripts/ImageDetails.py" afterPath="$PROJECT_DIR$/Python(Image Processing) skimage - Scripts/3-ImageDetails.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Python(Image Processing) skimage - Scripts/ImageRead.py" afterPath="$PROJECT_DIR$/Python(Image Processing) skimage - Scripts/1-ImageRead.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Python(Image Processing) skimage - Scripts/ImageViewer.py" afterPath="$PROJECT_DIR$/Python(Image Processing) skimage - Scripts/2-ImageViewer.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/TensorFlow-Examples/NeuralNetBasic.py" afterPath="$PROJECT_DIR$/TensorFlow/NeuralNetBasic.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/TensorFlow-Examples/deepLearningOwnData.py" afterPath="$PROJECT_DIR$/TensorFlow/deepLearningOwnData.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/TensorFlow-Examples/mul.py" afterPath="$PROJECT_DIR$/TensorFlow/mul.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/TensorFlow-Examples/mul1.py" afterPath="$PROJECT_DIR$/TensorFlow/mul1.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/TensorFlow-Examples/mulmat.py" afterPath="$PROJECT_DIR$/TensorFlow/mulmat.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Translation-Goslate/basic.py" afterPath="$PROJECT_DIR$/Translation-Goslate/1-basic.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Translation-Goslate/basic1.py" afterPath="$PROJECT_DIR$/Translation-Goslate/2-basic1.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Translation-Goslate/batchTranslation.py" afterPath="$PROJECT_DIR$/Translation-Goslate/6-batchTranslation.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Translation-Goslate/dictionary.py" afterPath="$PROJECT_DIR$/Translation-Goslate/7-dictionary.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Translation-Goslate/languageDetection.py" afterPath="$PROJECT_DIR$/Translation-Goslate/5-languageDetection.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Translation-Goslate/proxySupport.py" afterPath="$PROJECT_DIR$/Translation-Goslate/4-proxySupport.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Translation-Goslate/romanlization.py" afterPath="$PROJECT_DIR$/Translation-Goslate/3-romanlization.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Visualisation-Turtle/ChangingLineColor.py" afterPath="$PROJECT_DIR$/Visualisation-Turtle/8-ChangingLineColor.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Visualisation-Turtle/SpirallingStar.py" afterPath="$PROJECT_DIR$/Visualisation-Turtle/6-SpirallingStar.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Visualisation-Turtle/SpiralllingStar1.py" afterPath="$PROJECT_DIR$/Visualisation-Turtle/7-SpiralllingStar1.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Visualisation-Turtle/line.py" afterPath="$PROJECT_DIR$/Visualisation-Turtle/1-line.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Visualisation-Turtle/nestedLoop.py" afterPath="$PROJECT_DIR$/Visualisation-Turtle/10-nestedLoop.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Visualisation-Turtle/speed.py" afterPath="$PROJECT_DIR$/Visualisation-Turtle/11-speed.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Visualisation-Turtle/square.py" afterPath="$PROJECT_DIR$/Visualisation-Turtle/2-square.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Visualisation-Turtle/square1.py" afterPath="$PROJECT_DIR$/Visualisation-Turtle/3-square1.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Visualisation-Turtle/square2.py" afterPath="$PROJECT_DIR$/Visualisation-Turtle/4-square2.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Visualisation-Turtle/star.py" afterPath="$PROJECT_DIR$/Visualisation-Turtle/5-star.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Visualisation-Turtle/variable.py" afterPath="$PROJECT_DIR$/Visualisation-Turtle/9-variable.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Sample-Python.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OpenCV/10-imageTransformation.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OpenCV/11-ImageRotation.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OpenCV/12-ImageThresolding.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OpenCV/13.gaussianBlur.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OpenCV/14-medianBlur.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OpenCV/15.bilateralFilter.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OpenCV/16.CannyEdgeDetector.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OpenCV/7-circle.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OpenCV/8-text.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OpenCV/9-DrawingCombination.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Translation-Goslate/ToBTranslated.txt" afterPath="$PROJECT_DIR$/Translation-Goslate/ToBTranslated.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Translation-Googletrans/1-basic.py" afterPath="$PROJECT_DIR$/Translation-Googletrans/1-basic.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Translation-Googletrans/3-languageDetection.py" afterPath="$PROJECT_DIR$/Translation-Googletrans/3-languageDetection.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -52,11 +30,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="1-image_read.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/OpenCV/1-image_read.py">
+      <file leaf-file-name="7-circle.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OpenCV/7-circle.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="7" column="28" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="28" />
+            <state relative-caret-position="72">
+              <caret line="6" column="38" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="38" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -64,11 +42,35 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2-image_read1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/OpenCV/2-image_read1.py">
+      <file leaf-file-name="8-text.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OpenCV/8-text.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="70" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="70" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="9-DrawingCombination.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OpenCV/9-DrawingCombination.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="10-imageTransformation.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OpenCV/10-imageTransformation.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="108">
-              <caret line="6" column="26" lean-forward="false" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+              <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -76,48 +78,64 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="3-savingDiffFormat.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/OpenCV/3-savingDiffFormat.py">
+      <file leaf-file-name="11-ImageRotation.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OpenCV/11-ImageRotation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state relative-caret-position="144">
+              <caret line="9" column="69" lean-forward="false" selection-start-line="9" selection-start-column="69" selection-end-line="9" selection-end-column="69" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="12-ImageThresolding.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OpenCV/12-ImageThresolding.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="10" lean-forward="false" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="4-drawing.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/OpenCV/4-drawing.py">
+      <file leaf-file-name="13.gaussianBlur.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OpenCV/13.gaussianBlur.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-              <folding>
-                <element signature="e#177#195#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="126">
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="5-rectangle.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/OpenCV/5-rectangle.py">
+      <file leaf-file-name="14-medianBlur.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OpenCV/14-medianBlur.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="5" column="39" lean-forward="false" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="15.bilateralFilter.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OpenCV/15.bilateralFilter.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="5" column="11" lean-forward="false" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="16.CannyEdgeDetector.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/OpenCV/16.CannyEdgeDetector.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="216">
-              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="6-line.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/OpenCV/6-line.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" column="23" lean-forward="false" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
+              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -148,16 +166,27 @@
         <option value="$PROJECT_DIR$/OpenCV/drawing.py" />
         <option value="$PROJECT_DIR$/OpenCV/5-rectangle.py" />
         <option value="$PROJECT_DIR$/OpenCV/6-line.py" />
+        <option value="$PROJECT_DIR$/OpenCV/7-circle.py" />
+        <option value="$PROJECT_DIR$/OpenCV/8-text.py" />
+        <option value="$PROJECT_DIR$/OpenCV/9-DrawingCombination.py" />
+        <option value="$PROJECT_DIR$/OpenCV/10-imageTransformation.py" />
+        <option value="$PROJECT_DIR$/OpenCV/11-ImageRotation.py" />
+        <option value="$PROJECT_DIR$/OpenCV/12-ImageThresolding.py" />
+        <option value="$PROJECT_DIR$/OpenCV/13.gaussianBlur.py" />
+        <option value="$PROJECT_DIR$/OpenCV/14-medianBlur.py" />
+        <option value="$PROJECT_DIR$/Translation-Googletrans/1-basic.py" />
+        <option value="$PROJECT_DIR$/OpenCV/15.bilateralFilter.py" />
+        <option value="$PROJECT_DIR$/OpenCV/16.CannyEdgeDetector.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="639" />
-    <option name="y" value="24" />
-    <option name="width" value="725" />
-    <option name="height" value="674" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="638" />
+    <option name="y" value="6" />
+    <option name="width" value="727" />
+    <option name="height" value="703" />
   </component>
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
@@ -187,6 +216,11 @@
               <item name="Sample-Python" type="462c0819:PsiDirectoryNode" />
               <item name="OpenCV" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Sample-Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sample-Python" type="462c0819:PsiDirectoryNode" />
+              <item name="Translation-Googletrans" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -196,7 +230,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -210,25 +244,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.6-line">
-    <configuration name="5-rectangle" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.16.CannyEdgeDetector">
+    <configuration name="1-basic" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OpenCV" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Translation-Googletrans" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Sample-Python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OpenCV/5-rectangle.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Translation-Googletrans/1-basic.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="6-line" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="13.gaussianBlur" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -240,12 +274,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Sample-Python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OpenCV/6-line.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OpenCV/13.gaussianBlur.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="drawing" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="14-medianBlur" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -257,12 +291,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Sample-Python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OpenCV/4-drawing.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OpenCV/14-medianBlur.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="image_red1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="15.bilateralFilter" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -274,12 +308,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Sample-Python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OpenCV/2-image_read1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OpenCV/15.bilateralFilter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="savingDiffFormat" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="16.CannyEdgeDetector" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -291,25 +325,25 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Sample-Python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OpenCV/3-savingDiffFormat.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OpenCV/16.CannyEdgeDetector.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.image_red1" />
-      <item index="1" class="java.lang.String" itemvalue="Python.savingDiffFormat" />
-      <item index="2" class="java.lang.String" itemvalue="Python.drawing" />
-      <item index="3" class="java.lang.String" itemvalue="Python.5-rectangle" />
-      <item index="4" class="java.lang.String" itemvalue="Python.6-line" />
+      <item index="0" class="java.lang.String" itemvalue="Python.13.gaussianBlur" />
+      <item index="1" class="java.lang.String" itemvalue="Python.14-medianBlur" />
+      <item index="2" class="java.lang.String" itemvalue="Python.1-basic" />
+      <item index="3" class="java.lang.String" itemvalue="Python.15.bilateralFilter" />
+      <item index="4" class="java.lang.String" itemvalue="Python.16.CannyEdgeDetector" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.6-line" />
-        <item index="1" class="java.lang.String" itemvalue="Python.5-rectangle" />
-        <item index="2" class="java.lang.String" itemvalue="Python.drawing" />
-        <item index="3" class="java.lang.String" itemvalue="Python.savingDiffFormat" />
-        <item index="4" class="java.lang.String" itemvalue="Python.image_red1" />
+        <item index="0" class="java.lang.String" itemvalue="Python.16.CannyEdgeDetector" />
+        <item index="1" class="java.lang.String" itemvalue="Python.15.bilateralFilter" />
+        <item index="2" class="java.lang.String" itemvalue="Python.1-basic" />
+        <item index="3" class="java.lang.String" itemvalue="Python.14-medianBlur" />
+        <item index="4" class="java.lang.String" itemvalue="Python.13.gaussianBlur" />
       </list>
     </recent_temporary>
   </component>
@@ -317,24 +351,23 @@
     <option name="remove_strategy" value="false" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="639" y="24" width="725" height="674" extended-state="0" />
-    <editor active="true" />
+    <frame x="638" y="6" width="1368" height="780" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37518463" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19772728" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32886904" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32886904" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33333334" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38988096" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32886904" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -375,11 +408,31 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Translation-Goslate/1-basic.py">
+    <entry file="file://$PROJECT_DIR$/OpenCV/2-image_read1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="90">
+          <caret line="6" column="26" lean-forward="false" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpenCV/4-drawing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpenCV/5-rectangle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpenCV/6-line.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="11" column="23" lean-forward="false" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -387,7 +440,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -395,7 +447,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -403,7 +454,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Translation-Goslate/1-basic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -579,27 +636,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
           <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/OpenCV/2-image_read1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
+        <state relative-caret-position="90">
           <caret line="6" column="26" lean-forward="false" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/OpenCV/1-image_read.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
+        <state relative-caret-position="108">
           <caret line="7" column="28" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -607,37 +657,131 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/OpenCV/4-drawing.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
+        <state relative-caret-position="234">
           <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding>
-            <element signature="e#177#195#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/OpenCV/5-rectangle.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        <state relative-caret-position="72">
+          <caret line="5" column="71" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpenCV/6-line.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="6" column="43" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpenCV/8-text.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="70" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="70" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OpenCV/6-line.py">
+    <entry file="file://$PROJECT_DIR$/OpenCV/9-DrawingCombination.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="23" lean-forward="false" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        <state relative-caret-position="180">
+          <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpenCV/10-imageTransformation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpenCV/11-ImageRotation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="69" lean-forward="false" selection-start-line="9" selection-start-column="69" selection-end-line="9" selection-end-column="69" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpenCV/12-ImageThresolding.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="10" lean-forward="false" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpenCV/7-circle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="6" column="38" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Translation-Googletrans/3-languageDetection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Translation-Googletrans/1-basic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpenCV/13.gaussianBlur.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpenCV/14-medianBlur.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="39" lean-forward="false" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpenCV/15.bilateralFilter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="11" lean-forward="false" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpenCV/16.CannyEdgeDetector.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
