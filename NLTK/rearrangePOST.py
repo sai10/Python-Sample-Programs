@@ -1,8 +1,8 @@
 import nltk
 from nltk import word_tokenize
 
-st1 = 'this is a boy'
-st2 = 'a is this boy'
+st1 = 'hey whats up'
+st2 = 'whats hey up'
 
 tok1 = word_tokenize(st1)
 tok2 = word_tokenize(st2)
@@ -15,15 +15,27 @@ print ptag2
 string = str()
 for i in ptag1:
 	count = 0
-	print i
+	x = str(i)
+	x = x.replace('(','')
+	x = x.replace('\'','')
+	x = x[0:x.index(',')]
 	l = len(ptag1)
+	print x
 	while count < l:
-		if i == ptag2[count]:
+		ind = -1
+		y = str(ptag2[count])
+		y = y.replace('(','')
+		y = y.replace('\'','')
+		y = y[0:y.index(',')]
+		print y+'\n'
+		if x == y:
 			ind = count
+			print ind
 			break
 		count = count + 1
 		print count
-	string = string+' '+str(ptag2[ind])
+	if ind!=-1:
+		string = string+' '+y
 
 string = string.strip()
-
+print string
